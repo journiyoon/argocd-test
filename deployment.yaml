@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: journiyoon/doodweb:5
+        image: journiyoon/doodweb:6
         ports:
         - containerPort: 8080
